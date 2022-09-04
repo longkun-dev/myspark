@@ -1,0 +1,3 @@
+scala google hadoop spark scala
+hive avro google hadoop
+hello world
