@@ -1,0 +1,5 @@
+WARNING 这时一条 WARNING 级别的消息
+WARNING 这时一条 WARNING 级别的消息
+WARNING 这时一条 WARNING 级别的消息
+ERROR 这时一条 ERROR 级别的消息
+处理完成

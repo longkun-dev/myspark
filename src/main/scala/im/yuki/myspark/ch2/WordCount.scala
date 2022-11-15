@@ -5,7 +5,7 @@ import org.apache.spark.{SparkConf, SparkContext}
 /**
  * @author longkun
  * @date 2022/9/4 4:11 PM
- * @version V1.0.0
+ * @version V1.1.0
  * @description spark 进行单词数量统计
  */
 object WordCount {
