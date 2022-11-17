@@ -8,6 +8,7 @@ import org.apache.spark.{SparkConf, SparkContext}
  * @date 2022/11/16 11:12 PM
  * @version V1.1.0
  * @description aggregate() 行数初探
+ * aggregate 函数讲解：https://www.cnblogs.com/chorm590/p/spark_201904201159.html
  */
 object AggregateFunc {
 
